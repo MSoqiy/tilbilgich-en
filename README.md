@@ -41,20 +41,24 @@ Beshta analog bilan ekspert taqqoslashida **35 balldan 30 ball**.
 
 1. **[tilbilgich-en.apk](https://github.com/MSoqiy/tilbilgich-en/raw/main/apk/tilbilgich-en.apk)** faylini yuklab oling (APK papkasi — [apk/](https://github.com/MSoqiy/tilbilgich-en/tree/main/apk)).
 2. Faylni oching; telefon so‘rasa, «Noma'lum manbalardan o‘rnatish»ga ruxsat bering.
-3. «O‘rnatish»ni bosing. Birinchi ishga tushirishda ovoz modellari yuklanadi, keyin ilova internetsiz ishlaydi.
+3. «O‘rnatish»ni bosing.
 
 ## Ekranlar
 
+<div align="center">
+
 <img src="screenshots/tilbilgich-en-2.png" alt="Tilbilgich En AI — Ingliz tili" width="100%">
+
+</div>
 
 ## English
 
-**Tilbilgich En AI** — English for Uzbek-speaking kids: alphabet, words, reading and speaking with offline pronunciation scoring. Free, ad-free, works offline. Part of the *Aqlli o‘yin — bilimli avlod* (Smart games — knowledgeable generation) collection of Uzbek educational apps.
+**Tilbilgich En AI** — English for Uzbek-speaking kids: alphabet, words, reading and speaking with offline pronunciation scoring. Free, ad-free. Part of the «Ta'limiy o‘yinlar» collection by Mamasaidov M.A..
 
 ---
 
-**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io
+**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io · «[Ta'limiy o‘yinlar](https://msoqiy.github.io/oyinlar/)»
 
-**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh)
+**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh) · [So‘zla](https://github.com/MSoqiy/sozla)
 
-<sub>Kalit so‘zlar: ingliz tili bolalar uchun, ingliz tilini o‘rganish, english for kids uzbek, inglizcha so‘zlar, talaffuz, 1-sinf ingliz tili, ingliz alifbosi, английский для детей на узбекском языке, o‘zbekcha ta'limiy o‘yin, bolalar uchun ilova, android apk</sub>
+<sub>Kalit so‘zlar: ingliz tili bolalar uchun, ingliz tilini o‘rganish, english for kids uzbek, inglizcha so‘zlar, talaffuz, 1-sinf ingliz tili, ingliz alifbosi, английский для детей на узбекском языке, o‘zbekcha ta'limiy o‘yin, android apk</sub>
